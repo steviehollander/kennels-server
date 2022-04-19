@@ -6,7 +6,7 @@
             "type": "python",
             "request": "launch",
             "program": "./request_handler.py",
-            "console": "integratedTerminal",
+            "console": "internalConsole",
             "autoReload": {
                 "enable": true
             }
